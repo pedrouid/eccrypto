@@ -1,5 +1,5 @@
 {
-  "name": "eccrypto-s",
+  "name": "eccrypto-js",
   "version": "1.2.0",
   "description": "JavaScript Elliptic curve cryptography library",
   "main": "index.js",
